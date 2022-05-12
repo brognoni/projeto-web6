@@ -1,5 +1,5 @@
 module.exports = {
-    getObrasDeArteTarsila: function (connection, callback) {
+    getWebSite: function (connection, callback) {
         let querysql = 'select * from resenha';
         connection.query(querysql, callback);
     }
