@@ -1,0 +1,5 @@
+
+create database website;
+use website;
+CREATE TABLE `website`.`resenha` (  `idresenha` INT NOT NULL AUTO_INCREMENT,  `nome` VARCHAR(45) NOT NULL, texto VARCHAR(45), ano INT NOT NULL,  `urlimagem` VARCHAR(200) NOT NULL,   `created_at` TIMESTAMP default current_timestamp,   PRIMARY KEY (`idresenha`));
+

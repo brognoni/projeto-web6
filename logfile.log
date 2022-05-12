@@ -1,0 +1,13 @@
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.obrasdearte' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.obrasdearte' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.obrasdearte' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.obrasdearte' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.obrasdearte' doesn't exist"}
+{"level":"error","message":"ER_ACCESS_DENIED_ERROR: Access denied for user 'root'@'localhost' (using password: YES)"}
+{"level":"error","message":"ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1"}
+{"level":"error","message":"ER_NO_TABLES_USED: No tables used"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.idobra' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.website' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.resenha' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.resenha' doesn't exist"}
+{"level":"error","message":"ER_NO_SUCH_TABLE: Table 'museu.resenha' doesn't exist"}
